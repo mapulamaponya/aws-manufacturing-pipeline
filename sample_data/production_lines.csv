@@ -1,0 +1,2 @@
+line_id,timestamp,product_id,units_produced,waste_kg
+LINE-A,2025-10-10T09:00:00Z,PROD-01,100,2.0
