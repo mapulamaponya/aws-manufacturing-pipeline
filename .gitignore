@@ -4,3 +4,4 @@ terraform.tfvars
 .venv/
 
 .terraform/
+.DS_Store
