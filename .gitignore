@@ -1,6 +1,6 @@
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
 .venv/
-__pycache__/
-*.pyc
-terraform.tfstate
-*.secret
-.DS_Store
+
+.terraform/
